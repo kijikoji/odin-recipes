@@ -1,0 +1,39 @@
+.para{
+    font-size: 24px;
+}
+.ul{
+    font-size: 36px;
+
+}
+
+
+.main{
+    font-size: 64px;
+    font-weight: bold;
+    
+}
+
+.sub{
+    font-size: 42px;
+    font-weight: bold;
+
+}
+
+.center{
+    text-align: center;
+
+}
+
+.inv{
+    color: white;
+
+}
+
+#card {
+    height: 400px;
+    width: auto;
+    margin-left: auto;  
+    margin-right: auto;  
+    display: block;  
+
+}
